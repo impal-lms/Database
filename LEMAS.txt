@@ -95,6 +95,8 @@ INSERT INTO ALUMNI VALUES('A00003','Anda','1999');
 INSERT INTO ALUMNI VALUES('A00004','Wulansari','1999');
 
 
-
-
-
+SELECT * FROM Guru;
+SELECT * FROM Siswa;
+SELECT * FROM Kelas;
+SELECT * FROM Alumni;
+SELECT id_chatroom, nip, nis, chat FROM pesan;
